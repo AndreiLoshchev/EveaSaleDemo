@@ -30,7 +30,6 @@ numpy==1.25.2
 packaging==23.1
 pandas==2.0.2
 Pillow==9.5.0
-pip==23.2.1
 pipreqs==0.4.13
 prophet==1.1.4
 psutil==5.9.5
