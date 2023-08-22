@@ -1,4 +1,4 @@
-Cython==3.0.0
+Cython==0.29.36 
 Flask==2.3.3
 Flask-Cors==4.0.0
 fonttools==4.40.0
