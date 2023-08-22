@@ -4,8 +4,8 @@ Flask-Cors==4.0.0
 matplotlib==3.5.3
 mpld3==0.5.9
 numpy==1.17.5
-pandas==2.0.2
-prophet==1.1.4
-scikit-learn==1.3.0
-scipy==1.11.2
-setuptools-git==1.2
+pandas==1.3.5
+prophet
+scikit-learn
+scipy
+setuptools-git
